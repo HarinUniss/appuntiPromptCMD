@@ -1,0 +1,12 @@
+cd "percorso e nome cartella" – entra in una cartella;
+dir – visualizza i file contenuti nella cartella corrente o in quella specificata come argomento;
+tree – visualizza i file contenuti nella cartella corrente (o specificata) sotto forma di “albero”, includendo eventuali sotto-cartelle;
+chkdsk – effettua un’analisi del disco attuale (o di quello specificato). Questo comando dev’essere eseguito in modalità amministratore;
+date – mostra (ed eventualmente modifica) la data corrente;
+time – mostra (ed eventualmente modifica) l’ora corrente;
+start NomeProgramma – avvia il programma specificato in una finestra indipendente;
+tasklist – mostra la lista dei processi attivi sul sistema;
+title NuovoTitolo – dà un titolo alla finestra del Prompt;
+ver – mostra la versione del sistema operativo in uso;
+hostname – mostra il nome del dispositivo;
+exit – esce dal Prompt dei comandi.
